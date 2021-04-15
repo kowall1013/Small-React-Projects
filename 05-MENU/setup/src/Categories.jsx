@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Categories = ({ categories, filterItems }) => {
   return (
@@ -6,9 +6,9 @@ const Categories = ({ categories, filterItems }) => {
       {categories.map((category, index) => {
         return (
           <button
-            type="button"
             className="filter-btn"
-            key={index}
+            type="button"
+            key={`Category${index}`}
             onClick={() => filterItems(category)}
           >
             {category}
