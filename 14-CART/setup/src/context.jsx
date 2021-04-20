@@ -48,8 +48,6 @@ const AppProvider = ({ children }) => {
         ...state,
         clearCart,
         remove,
-        increase,
-        decrease,
         toggleAmount,
       }}
     >
