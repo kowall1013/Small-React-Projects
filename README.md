@@ -8,7 +8,9 @@
 [02-TOURS](https://kwl-tours.netlify.app/) 
 ---
 ### Important stuff in project
-- Destructuring
+- Basic filtering
+- try and catch
+- async / await
 
 
 
