@@ -33,16 +33,32 @@
 ### Important stuff in project
 - Filtering
 
+---
+
 [06-TABS](https://kwl-tabs.netlify.app/) 
 ---
 ### Important stuff in project
 - async / await
 - fatch
 
+---
 
+[07-SLIDER](https://kwl-slider.netlify.app/) 
+---
+### Important stuff in project
+- useEffect
 
+---
 
+[08-GENERATE-LOREM](https://kwl-generate-lorem.netlify.app/) 
+---
+### Important stuff in project
+- slice
 
+---
 
-
-
+[09-GENERATE-COLOR](https://kwl-color-generator.netlify.app/) 
+---
+### Important stuff in project
+- library Values for colors
+- copy to clipboard
