@@ -87,7 +87,38 @@
 - useContext hook
 - react icons
 - css modal
-- 
+
+---
+
+[13-STRIPE-SUBMENU](https://kwl-stripe-submenu.netlify.app/) 
+---
+### Important stuff in project
+- useContext hook
+- useRef hook
+- getBoundingCLientRect
+
+---
+
+[14-CART](https://kwl-cart.netlify.app/) 
+---
+### Important stuff in project
+- useContext hook
+- useRef hook
+- useReducer hook
+- async / await
+- reduce function
+
+---
+
+[15-COCKTAILS](https://kwl-cocktails.netlify.app/) 
+---
+### Important stuff in project
+- useContext hook
+- useCallback
+- try / catch
+- React router
+- useParams
+- Searching elements
 
 
 
