@@ -62,3 +62,35 @@
 ### Important stuff in project
 - library Values for colors
 - copy to clipboard
+
+---
+
+[10-GROCERY](https://kwl-grocery.netlify.app/) 
+---
+### Important stuff in project
+- setTimeout / clearTimeout
+- Local Strorage
+- Editting / Adding / Deleteing Items
+
+---
+
+[11-NAVBAR](https://kwl-navbar.netlify.app/) 
+---
+### Important stuff in project
+- useRef hook
+
+---
+
+[12-SIDEBAR-MODAL](https://kwl-sidebar-model.netlify.app/) 
+---
+### Important stuff in project
+- useContext hook
+- react icons
+- css modal
+- 
+
+
+
+
+
+
